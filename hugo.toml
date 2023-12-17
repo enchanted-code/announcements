@@ -9,7 +9,7 @@ paginate = 6
 github = "https://github.com/enchant97"
 
 [permalinks]
-posts = "/posts/:title/"
+posts = "/posts/:slug/"
 
 [params]
 author = "Leo Spratt"
