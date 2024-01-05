@@ -1,5 +1,5 @@
 ---
-title: "The Year 2024 Conclusion"
+title: "The Year 2023 Conclusion"
 date: 2024-01-05T09:00:00Z
 description: "New blog post for 'The Year X Conclusion' 2023 edition."
 tags:
