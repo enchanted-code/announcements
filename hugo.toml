@@ -1,19 +1,9 @@
 baseURL = "https://announcements.enchantedcode.co.uk/"
 languageCode = 'en'
 title = 'Announcements By Enchanted Code'
-theme = ["github.com/nodejh/hugo-theme-mini"]
+theme = ["github.com/hanwenguo/hugo-theme-nostyleplease"]
 enableGitInfo = true
 paginate = 6
 
-[social]
-github = "https://github.com/enchant97"
-
 [permalinks]
 posts = "/posts/:slug/"
-
-[params]
-author = "Leo Spratt"
-enableRSS = true
-[[params.links]]
-name = "Enchanted Code"
-path = "https://enchantedcode.co.uk/"

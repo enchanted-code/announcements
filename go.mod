@@ -2,4 +2,4 @@ module github.com/enchanted-code/announcements
 
 go 1.21
 
-require github.com/nodejh/hugo-theme-mini v0.0.0-20240322021354-34417888405c // indirect
+require github.com/hanwenguo/hugo-theme-nostyleplease v0.0.0-20240922184603-6cd4ade99827 // indirect

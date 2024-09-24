@@ -1,0 +1,23 @@
+[[entries]]
+title = "About"
+url = "about"
+
+[[entries]]
+title = "Enchanted Code"
+url = "https://enchantedcode.co.uk/"
+
+[[entries]]
+title = "RSS Feed"
+url = "index.xml"
+
+[[entries]]
+title = "Tags"
+url = "tags"
+
+[[entries]]
+title="Recent Announcements"
+[entries.post_list]
+limit = 6
+show_more = true
+show_more_text = "See archive..."
+show_more_url = "posts"
