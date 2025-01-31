@@ -3,7 +3,9 @@ languageCode = 'en'
 title = 'Announcements By Enchanted Code'
 theme = ["github.com/hanwenguo/hugo-theme-nostyleplease"]
 enableGitInfo = true
-paginate = 6
+
+[pagination]
+pagerSize = 6
 
 [permalinks]
 posts = "/posts/:slug/"
